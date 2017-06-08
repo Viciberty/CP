@@ -1,0 +1,9 @@
+# Compiled LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pre
+*.synctex.gz
+*.eps
